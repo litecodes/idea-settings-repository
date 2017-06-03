@@ -1,0 +1,22 @@
+<templateSet group="Log">
+  <template name="lg" value="import org.slf4j.Logger;&#10;import org.slf4j.LoggerFactory;&#10;&#10;// Logger&#10;private static final Logger logger = LoggerFactory.getLogger($CLASS_NAME$);" description="Generate SLF4J logger" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="log" value="private static final String LOG_$VAR_NAME$ = &quot;$MESSAGE$&quot;;" description="Define log message" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="ex" value="private static final String EX_$VAR_NAME$ = &quot;$MESSAGE$&quot;;" description="Define exception message" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
