@@ -1,0 +1,147 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/yanx/meow/meow-static/config/index.js" timestamp="1496850407817">
+        <mark key="[" line="34" column="59" />
+        <mark key="]" line="42" column="30" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" timestamp="1496851132608">
+        <mark key="'" line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yanx/meow/meow-static/src/pages/report/Global.vue" timestamp="1496851168104">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="112" column="9" />
+        <mark key="]" line="114" column="35" />
+        <mark key="." line="114" column="35" />
+        <mark key="^" line="114" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/yanx/meow/meow-static/src/components/chart/ECharts.vue" timestamp="1496849750892">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yanx/meow/meow-static/src/router/index.js" timestamp="1496848246097">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/yanx/meow/meow-static/stub/report.GET.json" timestamp="1496848595040">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yanx/meow/meow-static/stub/component/data.GET.json" timestamp="1496850017619">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="45" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="45" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/yanx/meow/meow-static/index.html" timestamp="1496850297319">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="29" column="4" filename="$USER_HOME$/workspace/yanx/meow/meow-static/stub/component/data.GET.json" />
+      <jump line="74" column="17" filename="$USER_HOME$/workspace/yanx/meow/meow-static/src/pages/report/Global.vue" />
+      <jump line="2" column="24" filename="$USER_HOME$/workspace/yanx/meow/meow-static/src/pages/report/Global.vue" />
+      <jump line="139" column="44" filename="$USER_HOME$/workspace/yanx/meow/meow-static/src/pages/report/Global.vue" />
+      <jump line="145" column="8" filename="$USER_HOME$/workspace/yanx/meow/meow-static/src/pages/report/Global.vue" />
+      <jump line="12" column="17" filename="$USER_HOME$/workspace/yanx/meow/meow-static/src/pages/report/Global.vue" />
+      <jump line="7" column="10" filename="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" />
+      <jump line="42" column="6" filename="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" />
+      <jump line="43" column="6" filename="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" />
+      <jump line="44" column="6" filename="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>data</text>
+      </register>
+      <register name="-" type="4">
+        <text>data</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">ICAgIH0s</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxlLWNoYXJ0cyByZWY9Imdsb2JhbCI+PC9lLWNoYXJ0cz4K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwhLS0gYnVpbHQgZmlsZXMgd2lsbCBiZSBhdXRvIGluamVjdGVkIC0tPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb3BzOiBbJ2lkJywgJ29wdGlvbiddLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDx0ZW1wbGF0ZSB2LWZvcj0iY29tcG9uZW50IGluIGNvbXBvbmVudHMiPgogICAgICA8ZS1jaGFydHMgdi1pZj0iY29tcG9uZW50LnR5cGUgPT09ICdDSEFSVCciCiAgICAgICAgICAgICAgICA6aWQ9ImNvbXBvbmVudC5pZCIKICAgICAgICAgICAgICAgIDpvcHRpb249ImNvbXBvbmVudC5vcHRpb24iPjwvZS1jaGFydHM+CiAgICA8L3RlbXBsYXRlPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnQ6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgaWQ6ICdzdHViJywKICAgICAgICAgICAgdHlwZTogJ0NIQVJUJywKICAgICAgICAgICAgb3B0aW9uOiB7fQogICAgICAgICAgfQogICAgICAgIF0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLy8g5Yqg6L295pWw5o2uCiAgICAgICQuZ2V0KCcvYWpheC9jb21wb25lbnQvZGF0YScsIHsKICAgICAgICBpZDogdGhpcy5pZAogICAgICB9KQogICAgICAuZG9uZSgkLnByb3h5KGZ1bmN0aW9uKHJlc3BvbnNlKSB7CiAgICAgICAgCiAgICAgICAgLy8g5qOA5p+l5ZON5bqU57uT5p6cCiAgICAgICAgaWYgKHJlc3BvbnNlLnN0YXR1cyAhPT0gMjAwKSB7CiAgICAgICAgICBjb25zb2xlLmVycm9yKGBFUlJPUjogJHsgcmVzcG9uc2UubWVzc2FnZSB9YCk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIAogICAgICAgIC8vIOiuvue9riBvcHRpb24KICAgICAgICAKICAgICAgICAvLyDliJ3lp4vljJYgRUNoYXJ0cwogICAgICAgIHRoaXMuY2hhcnQuc2V0T3B0aW9ucyh0aGlzLm9wdGlvbnMpOwogICAgICAgIAogICAgICB9LCB0aGlzKSk7CiAgICAgIAogICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">ICAgIH0s</last-search>
+      <last-pattern encoding="base64">ICAgIH0s</last-pattern>
+      <last-replace>,&quot;inner&quot;: 1 },</last-replace>
+      <last-substitute encoding="base64">ICAgIH0s</last-substitute>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>srch</entry>
+        <entry>click</entry>
+        <entry>consume</entry>
+        <entry encoding="base64">ICAgIH0s</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>%s/srch/ka/g</entry>
+        <entry>%s/click/sme/g</entry>
+        <entry>%/consume/vip/g</entry>
+        <entry>%s/consume/vip/g</entry>
+        <entry>%s/    },/,&quot;inner&quot;: 1/g</entry>
+        <entry>%s/    },/,&quot;inner&quot;: 1 },/g</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
