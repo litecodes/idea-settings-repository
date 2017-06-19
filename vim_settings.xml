@@ -30,14 +30,26 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/keychain/chrome-extensions/src/js/options.js" timestamp="1497882078837">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="53" />
+        <mark key="^" line="26" column="53" />
+        <mark key="." line="26" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/keychain/chrome-extensions/src/js/content_scripts.js" timestamp="1497885988764">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/keychain/chrome-extensions/src/js/background.js" timestamp="1497886064240">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="9" column="2" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/yanx/meow/meow-static/stub/report.GET.json" timestamp="1496848595040">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/keychain/chrome-extensions/src/js/options.js" timestamp="1497881332250">
-        <mark key="[" line="7" column="62" />
-        <mark key="]" line="7" column="62" />
-        <mark key="^" line="7" column="64" />
-        <mark key="." line="7" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/yanx/meow/meow-static/stub/component/data.GET.json" timestamp="1496850017619">
         <mark key="'" line="29" column="4" />
@@ -51,18 +63,18 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/keychain/chrome-extensions/manifest.json" timestamp="1497879771685">
+      <file name="$USER_HOME$/workspace/keychain/chrome-extensions/manifest.json" timestamp="1497884487088">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/keychain/chrome-extensions/options.html" timestamp="1497881444309">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="16" />
-        <mark key="." line="25" column="16" />
-        <mark key="^" line="25" column="16" />
+      <file name="$USER_HOME$/workspace/keychain/chrome-extensions/options.html" timestamp="1497882396537">
+        <mark key="'" line="37" column="39" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -78,13 +90,16 @@
       <jump line="44" column="6" filename="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/keychain/chrome-extensions/manifest.json" />
+      <jump line="23" column="16" filename="$USER_HOME$/workspace/keychain/chrome-extensions/src/js/options.js" />
+      <jump line="33" column="39" filename="$USER_HOME$/workspace/keychain/chrome-extensions/options.html" />
+      <jump line="10" column="30" filename="$USER_HOME$/workspace/keychain/chrome-extensions/src/js/content_scripts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>style</text>
+        <text>farewe</text>
       </register>
       <register name="-" type="4">
-        <text>style</text>
+        <text>farewe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICAgIH0s</text>
@@ -92,32 +107,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InNldHRpbmdzLXJvdyI+CiAgICAgIDxsYWJlbCBmb3I9ImNpcGhlci1zZWVkIiBjbGFzcz0ic2V0dGluZ3MtbGFiZWwiPkNpcGhlciBTZWVkOjwvbGFiZWw+CiAgICAgIDxpbnB1dCBpZD0iY2lwaGVyLXNlZWQiIHR5cGU9InRleHQiIHNpemU9IjI0Ij4KICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="1" type="4">
+        <text>chrome.runtime.onMessage.addListener(function(message) {
+  alert(message);
+});</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBrZXJtaXQgb24gMTkvMDYvMjAxNy4K</text>
+      <register name="2" type="4">
+        <text>chrome.tabs.onActivated.addListener(function () {
+
+  document.querySelector('input').value = localStorage.getItem(
+      'keychain-default-user');
+});</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXNzYWdlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLWxlZnQ6IDIwcHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmNocm9tZS5icm93c2VyQWN0aW9uLm9uQ2xpY2tlZC5hZGRMaXN0ZW5lcihmdW5jdGlvbigpIHsKICBjb25zb2xlLmxvZyh0ZXh0ZmllbGRzLmxlbmd0aCkKfSk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5zZXR0aW5ncy1yb3csIC5zZXR0aW5ncy1yb3cgbGFiZWwsIC5zZXR0aW5ncy1yb3cgaW5wdXQgewogICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgfQo=</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgaWQ9ImRvd25sb2FkTG9jYXRpb25QYXRoIiB0eXBlPSJ0ZXh0Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAudmVydGljYWwtY2VudGVyIHsKICAgIHZlcnRpY2FsLWFsaWduOiB0b3A7CiAgfQo=</text>
+        <text encoding="base64">Ly8gQmluZGluZyBleHRlbnNpb24gbWVzc2FnZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHRhYmluZGV4PSIwIiByb2xlPSJidXR0b24iPjwvZGl2Pjwvc3Bhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
