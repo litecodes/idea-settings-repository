@@ -45,6 +45,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/keychain/chrome-extensions/manifest.json" timestamp="1497877395160">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="29" column="4" filename="$USER_HOME$/workspace/yanx/meow/meow-static/stub/component/data.GET.json" />
@@ -58,6 +65,7 @@
       <jump line="43" column="6" filename="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" />
       <jump line="44" column="6" filename="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/yanx/meow/meow-static/static/stub/component/source.GET.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/keychain/chrome-extensions/manifest.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -128,6 +136,8 @@
         <entry>%s/    },/,&quot;inner&quot;: 1 },/g</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
