@@ -19,6 +19,11 @@
         <mark key="." line="114" column="35" />
         <mark key="^" line="114" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/keychain-project/website/index.html" timestamp="1497965413931">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yanx/meow/meow-static/src/components/chart/ECharts.vue" timestamp="1496849750892">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -41,6 +46,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/keychain-project/website/src/main.js" timestamp="1497965721964">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/keychain/chrome-extensions/src/js/background.js" timestamp="1497886064240">
         <mark key="[" line="6" column="25" />
@@ -101,8 +111,8 @@
       <jump line="10" column="30" filename="$USER_HOME$/workspace/keychain/chrome-extensions/src/js/content_scripts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Fill the form to generate password...';</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICQgICAgICBmcm9tICdqcXVlcnknOwppbXBvcnQgYm9vdHN0cmFwIGZyb20gJ2Jvb3RzdHJhcCc7CmltcG9ydCBpY2hlY2sgICBmcm9tICdpY2hlY2snOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Fill the form to generate password...';</text>
@@ -113,38 +123,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InNldHRpbmdzLXJvdyI+CiAgICAgIDxsYWJlbCBmb3I9ImNpcGhlci1zZWVkIiBjbGFzcz0ic2V0dGluZ3MtbGFiZWwiPkNpcGhlciBTZWVkOjwvbGFiZWw+CiAgICAgIDxpbnB1dCBpZD0iY2lwaGVyLXNlZWQiIHR5cGU9InRleHQiIHNpemU9IjI0Ij4KICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0ICQgICAgICBmcm9tICdqcXVlcnknOwppbXBvcnQgYm9vdHN0cmFwIGZyb20gJ2Jvb3RzdHJhcCc7CmltcG9ydCBpY2hlY2sgICBmcm9tICdpY2hlY2snOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gVGhlIFZ1ZSBidWlsZCB2ZXJzaW9uIHRvIGxvYWQgd2l0aCB0aGUgYGltcG9ydGAgY29tbWFuZAovLyAocnVudGltZS1vbmx5IG9yIHN0YW5kYWxvbmUpIGhhcyBiZWVuIHNldCBpbiB3ZWJwYWNrLmJhc2UuY29uZiB3aXRoIGFuIGFsaWFzLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">VnVlLmNvbmZpZy5wcm9kdWN0aW9uVGlwID0gZmFsc2UK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">VnVlLmNvbmZpZy5wcm9kdWN0aW9uVGlwID0gZmFsc2UK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgbm8tbmV3ICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ic3RhdGljL2ljaGVjay9pY2hlY2subWluLmpzIj48L3NjcmlwdD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ic3RhdGljL2Jvb3RzdHJhcC9kaXN0L2pzL2Jvb3RzdHJhcC5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ic3RhdGljL2pxdWVyeS9kaXN0L2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+      </register>
+      <register name="9" type="4">
         <text>chrome.runtime.onMessage.addListener(function(message) {
   alert(message);
 });</text>
-      </register>
-      <register name="2" type="4">
-        <text>chrome.tabs.onActivated.addListener(function () {
-
-  document.querySelector('input').value = localStorage.getItem(
-      'keychain-default-user');
-});</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXNzYWdlKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmNocm9tZS5icm93c2VyQWN0aW9uLm9uQ2xpY2tlZC5hZGRMaXN0ZW5lcihmdW5jdGlvbigpIHsKICBjb25zb2xlLmxvZyh0ZXh0ZmllbGRzLmxlbmd0aCkKfSk7</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAvLyAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gQmluZGluZyBleHRlbnNpb24gbWVzc2FnZS4K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
