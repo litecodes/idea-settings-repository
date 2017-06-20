@@ -19,10 +19,11 @@
         <mark key="." line="114" column="35" />
         <mark key="^" line="114" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/keychain-project/website/index.html" timestamp="1497965413931">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/keychain-project/website/index.html" timestamp="1497967430738">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="8" column="48" />
+        <mark key="." line="8" column="48" />
+        <mark key="^" line="6" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/yanx/meow/meow-static/src/components/chart/ECharts.vue" timestamp="1496849750892">
         <mark key="[" line="17" column="0" />
@@ -58,14 +59,20 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/keychain-project/website/src/router/index.js" timestamp="1497967045117">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/yanx/meow/meow-static/stub/report.GET.json" timestamp="1496848595040">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/keychain-project/website/src/pages/Index.vue" timestamp="1497962901994">
-        <mark key="[" line="123" column="29" />
-        <mark key="]" line="123" column="36" />
-        <mark key="." line="123" column="36" />
-        <mark key="^" line="123" column="36" />
+      <file name="$USER_HOME$/workspace/keychain-project/website/src/pages/Index.vue" timestamp="1497967461195">
+        <mark key="[" line="123" column="56" />
+        <mark key="]" line="123" column="56" />
+        <mark key="." line="123" column="56" />
+        <mark key="^" line="123" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/yanx/meow/meow-static/stub/component/data.GET.json" timestamp="1496850017619">
         <mark key="'" line="29" column="4" />
@@ -111,49 +118,50 @@
       <jump line="10" column="30" filename="$USER_HOME$/workspace/keychain/chrome-extensions/src/js/content_scripts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICQgICAgICBmcm9tICdqcXVlcnknOwppbXBvcnQgYm9vdHN0cmFwIGZyb20gJ2Jvb3RzdHJhcCc7CmltcG9ydCBpY2hlY2sgICBmcm9tICdpY2hlY2snOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Fill the form to generate password...';</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICAgIH0s</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InNldHRpbmdzLXJvdyI+CiAgICAgIDxsYWJlbCBmb3I9ImNpcGhlci1zZWVkIiBjbGFzcz0ic2V0dGluZ3MtbGFiZWwiPkNpcGhlciBTZWVkOjwvbGFiZWw+CiAgICAgIDxpbnB1dCBpZD0iY2lwaGVyLXNlZWQiIHR5cGU9InRleHQiIHNpemU9IjI0Ij4KICAgIDwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">a2V5Y2hhYWluLXdlYnNpdGU8Lw==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICQgICAgICBmcm9tICdqcXVlcnknOwppbXBvcnQgYm9vdHN0cmFwIGZyb20gJ2Jvb3RzdHJhcCc7CmltcG9ydCBpY2hlY2sgICBmcm9tICdpY2hlY2snOwo=</text>
+      <register name="1" type="8">
+        <text>/
+/
+/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gVGhlIFZ1ZSBidWlsZCB2ZXJzaW9uIHRvIGxvYWQgd2l0aCB0aGUgYGltcG9ydGAgY29tbWFuZAovLyAocnVudGltZS1vbmx5IG9yIHN0YW5kYWxvbmUpIGhhcyBiZWVuIHNldCBpbiB3ZWJwYWNrLmJhc2UuY29uZiB3aXRoIGFuIGFsaWFzLgo=</text>
+      <register name="2" type="8">
+        <text>/
+/</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VnVlLmNvbmZpZy5wcm9kdWN0aW9uVGlwID0gZmFsc2UK</text>
+        <text encoding="base64">aW1wb3J0ICQgICAgICBmcm9tICdqcXVlcnknOwppbXBvcnQgYm9vdHN0cmFwIGZyb20gJ2Jvb3RzdHJhcCc7CmltcG9ydCBpY2hlY2sgICBmcm9tICdpY2hlY2snOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VnVlLmNvbmZpZy5wcm9kdWN0aW9uVGlwID0gZmFsc2UK</text>
+        <text encoding="base64">Ly8gVGhlIFZ1ZSBidWlsZCB2ZXJzaW9uIHRvIGxvYWQgd2l0aCB0aGUgYGltcG9ydGAgY29tbWFuZAovLyAocnVudGltZS1vbmx5IG9yIHN0YW5kYWxvbmUpIGhhcyBiZWVuIHNldCBpbiB3ZWJwYWNrLmJhc2UuY29uZiB3aXRoIGFuIGFsaWFzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgbm8tbmV3ICovCg==</text>
+        <text encoding="base64">VnVlLmNvbmZpZy5wcm9kdWN0aW9uVGlwID0gZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ic3RhdGljL2ljaGVjay9pY2hlY2subWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">VnVlLmNvbmZpZy5wcm9kdWN0aW9uVGlwID0gZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ic3RhdGljL2Jvb3RzdHJhcC9kaXN0L2pzL2Jvb3RzdHJhcC5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgbm8tbmV3ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ic3RhdGljL2pxdWVyeS9kaXN0L2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ic3RhdGljL2ljaGVjay9pY2hlY2subWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
-      <register name="9" type="4">
-        <text>chrome.runtime.onMessage.addListener(function(message) {
-  alert(message);
-});</text>
+      <register name="9" type="2">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0ic3RhdGljL2Jvb3RzdHJhcC9kaXN0L2pzL2Jvb3RzdHJhcC5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -172,7 +180,6 @@
         <entry encoding="base64">ICAgIH0s</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>%s/srch/ka/g</entry>
         <entry>%s/click/sme/g</entry>
         <entry>%/consume/vip/g</entry>
@@ -180,6 +187,7 @@
         <entry>%s/    },/,&quot;inner&quot;: 1/g</entry>
         <entry>%s/    },/,&quot;inner&quot;: 1 },/g</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -193,6 +201,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
