@@ -51,6 +51,12 @@
       <file name="$USER_HOME$/workspace/yanx/meow/meow-static/stub/report.GET.json" timestamp="1496848595040">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/keychain-project/website/src/pages/Index.vue" timestamp="1497962901994">
+        <mark key="[" line="123" column="29" />
+        <mark key="]" line="123" column="36" />
+        <mark key="." line="123" column="36" />
+        <mark key="^" line="123" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/yanx/meow/meow-static/stub/component/data.GET.json" timestamp="1496850017619">
         <mark key="'" line="29" column="4" />
         <mark key="[" line="45" column="5" />
@@ -96,10 +102,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>farewe</text>
+        <text>Fill the form to generate password...';</text>
       </register>
       <register name="-" type="4">
-        <text>farewe</text>
+        <text>Fill the form to generate password...';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICAgIH0s</text>
